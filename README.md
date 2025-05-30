@@ -38,10 +38,10 @@ python app.py
 🔧 API Endpoints
 Method	Route	Description
 POST	 /register	Register a new user
-POST	 /login	Login and receive access + refresh tokens
-GET 	 /profile	Access protected user info (access token required)
-POST	 /logout	Log out and revoke token
-POST	 /refresh	Get a new access token using a refresh token
+POST	 /login   	Login and receive access + refresh tokens
+GET 	 /profile 	Access protected user info (access token required)
+POST	 /logout	  Log out and revoke token
+POST	 /refresh	  Get a new access token using a refresh token
 
 🧪 Testing with Postman
 Register a user with /register
