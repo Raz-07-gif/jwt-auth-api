@@ -58,7 +58,9 @@ Use /logout to invalidate the current token
 ├── app_jwt.py
 ├── requirements.txt
 └── README.md
-📜 License
+
+
+📜LICENSE
 This project is licensed under the MIT License.
 🤝 Contributions
 Pull requests are welcome. If you find a bug or want to improve something, feel free to open an issue or submit a PR.
@@ -67,7 +69,7 @@ sql
 
 ---
 
-### 📄 `LICENSE` (MIT License)
+📄 `LICENSE` (MIT License)
 MIT License
 
 Copyright (c) 2025 Raz
